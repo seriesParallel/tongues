@@ -1,0 +1,16 @@
+body {
+    background-image: url("img/white2.png");
+    margin:0px;
+    background-attachment: fixed;
+    background-position: 0px 200px;
+
+}
+
+.container {
+    height:1300px;
+    width:100%;
+    top: -40px;
+
+
+
+}
